@@ -1,4 +1,3 @@
-# Data-Professional-Survey-Summary
 # 📊 Survey Data Analysis with Power BI
 
 A data transformation and visualization project using Power BI to uncover insights from survey results.
