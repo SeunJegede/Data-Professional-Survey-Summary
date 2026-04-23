@@ -46,5 +46,4 @@ Once the data was loaded, interactive visuals were built to highlight s key insi
 ## 🖼️ Dashboard Preview
 ![Power BI Dashboard](https://github.com/user-attachments/assets/4b669361-cdee-40c3-b653-d86dca29ff31)
 
-![Power BI Dashboard](https://github.com/user-attachments/assets/4b669361-cdee-40c3-b653-d86dca29ff31)
 
